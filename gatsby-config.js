@@ -3,6 +3,7 @@ module.exports = {
     title: 'Simon Adcock',
     author: 'Simon Adcock',
     authorLink: 'https://github.com/siadcock',
+    disqus: 'gatsby-starter-blog'// put your disqus ID here
   },
   plugins: [
     {
