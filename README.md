@@ -1,6 +1,6 @@
 # Simon Adcock Blog
 
-Source for [simonadcock.com](http://simonadcock.com)
+Source for [simonadcock.com](https://simonadcock.com)
 
 Uses [`gatsby-starter-bootstrap-netlify`](https://github.com/konsumer/gatsby-starter-bootstrap-netlify)
 
