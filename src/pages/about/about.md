@@ -3,7 +3,7 @@ contentType: about
 path: /about
 title: Hello
 ---
-I am a client side developer, living and working in London UK.
+I am a client side developer, living and working in London UK. My pronouns are he / him.
 
 I currently work for [The Guardian](https://www.theguardian.com). 
 
