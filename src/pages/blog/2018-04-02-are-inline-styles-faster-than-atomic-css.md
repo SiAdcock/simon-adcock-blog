@@ -6,10 +6,6 @@ date: '2018-04-02T19:28:52+01:00'
 attachments: []
 related: []
 ---
-/are-inline-styles-faster-than-atomic-css
-
-Are inline styles faster than atomic CSS?
-
 First, a couple of definitions.
 
 In this article, I’m using *inline styles* to mean styles applied directly to the `style` attribute of a HTML element.
