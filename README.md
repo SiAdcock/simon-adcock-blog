@@ -7,6 +7,6 @@ Uses [`gatsby-starter-bootstrap-netlify`](https://github.com/konsumer/gatsby-sta
 ## Develop
 
 ```bash
-$ npm install
-$ npm start
+$ yarn
+$ yarn start
 ```
